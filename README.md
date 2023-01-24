@@ -1,6 +1,6 @@
 # Piki Music Dataset
 
-We collect binary data while incentivizing users to provide feedback in a way that is aligned with their individual tastes. The columns of the dataset are as following:
+We collect explicit ratings while incentivizing users to provide feedback in a way that is aligned with their individual tastes. The columns of the dataset are as following:
 
 - timestamp: a datetime variable
 - user_id: an anonymized user id
